@@ -8,7 +8,7 @@
   height: 100%;
   margin: 0 auto;
   font-family: Century Schoolbook;
-  background-image: url(background_main.jpg)
+  background-image: url(background_main.jpg);
 }
 
 header{
@@ -28,6 +28,7 @@ header h1{
   margin:0 auto;
   width: 90%;
   height: auto;
+  background-color: transparent;
 }
 
 #main h3, h4{

@@ -3,12 +3,17 @@
   padding: 0;
 }
 
+body{
+    background-image: url(background_main.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
 .main-body{
   width: 95%;
   height: 100%;
   margin: 0 auto;
   font-family: Century Schoolbook;
-  background-image: url(background_main.jpg);
 }
 
 header{

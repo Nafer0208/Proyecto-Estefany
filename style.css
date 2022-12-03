@@ -14,6 +14,7 @@ body{
   height: 100%;
   margin: 0 auto;
   font-family: Century Schoolbook;
+  background-color: #fff;
 }
 
 header{
@@ -33,7 +34,7 @@ header h1{
   margin:0 auto;
   width: 90%;
   height: auto;
-  background-color: #fff;
+
 }
 
 #main h3, h4{
